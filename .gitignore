@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+
+# Trained model
+src/model/random_forest_model.pkl
