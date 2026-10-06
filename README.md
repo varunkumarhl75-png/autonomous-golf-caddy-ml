@@ -1,4 +1,5 @@
-# Autonomous Golf Caddy – Traversability Prediction
+#Autonomous Computer Vision Based Human-Following Robot"
+– Traversability Prediction
 
 ## 1. Project Overview
 
